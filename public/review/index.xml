@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reviews on Vultr 中文手册</title>
+    <link>https://vultrceping.github.io/review/</link>
+    <description>Recent content in Reviews on Vultr 中文手册</description>
+    <image>
+      <title>Vultr 中文手册</title>
+      <url>https://vultrceping.github.io/favicon.ico</url>
+      <link>https://vultrceping.github.io/favicon.ico</link>
+    </image>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 是什么？怎么样？新手必读的基础介绍与选购指南</title>
+      <link>https://vultrceping.github.io/review/what-is-vultr-and-review/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/what-is-vultr-and-review/</guid>
+      <description>针对新手用户，本文为您带来客观、理性的 Vultr 基础介绍与选购指南。深度解析 Vultr 到底怎么样，涵盖其全球机房分布、灵活的计费方式以及核心优缺点分析。</description>
+    </item>
+  </channel>
+</rss>

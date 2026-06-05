@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vultrceping.github.io/sitemap.xml
