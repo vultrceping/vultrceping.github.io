@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guides on Vultr 中文手册</title>
+    <link>https://vultrceping.github.io/guide/</link>
+    <description>Recent content in Guides on Vultr 中文手册</description>
+    <image>
+      <title>Vultr 中文手册</title>
+      <url>https://vultrceping.github.io/favicon.ico</url>
+      <link>https://vultrceping.github.io/favicon.ico</link>
+    </image>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://vultrceping.github.io/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 怎么买？图文教程手把手教你注册并开通服务器</title>
+      <link>https://vultrceping.github.io/guide/how-to-buy-vultr/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/guide/how-to-buy-vultr/</guid>
+      <description>这是一份专为新手准备的最新 Vultr 注册与购买图文教程。文章详细分解了 Vultr 账户注册、支付宝充值付款、高性价比服务器方案选择以及一键部署流程。</description>
+    </item>
+  </channel>
+</rss>
