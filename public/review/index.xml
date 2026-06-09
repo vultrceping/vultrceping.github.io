@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Reviews on Vultr 中文手册</title>
+    <title>Vultr 测评 on Vultr 中文手册</title>
     <link>https://vultrceping.github.io/review/</link>
-    <description>Recent content in Reviews on Vultr 中文手册</description>
+    <description>Recent content in Vultr 测评 on Vultr 中文手册</description>
     <image>
       <title>Vultr 中文手册</title>
       <url>https://vultrceping.github.io/favicon.ico</url>
@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 05 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 亚特兰大机房速度怎么样？共享 CPU 真实评测！</title>
+      <link>https://vultrceping.github.io/review/atlanta-georgia-shared-cpu/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/atlanta-georgia-shared-cpu/</guid>
+      <description>打算购买 Vultr 亚特兰大机房的 VPS 吗？本文为您带来 Vultr Shared CPU (共享 CPU) 亚特兰大节点的深度详细测评，涵盖全国 Ping 延迟、路由追踪、性能跑分以及实际建站体验。</description>
+    </item>
     <item>
       <title>Vultr 是什么？怎么样？新手必读的基础介绍与选购指南</title>
       <link>https://vultrceping.github.io/review/what-is-vultr-and-review/</link>
