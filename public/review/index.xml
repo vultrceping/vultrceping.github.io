@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最新 Vultr 芝加哥节点评测，硬件跑分与三网测速报告</title>
+      <link>https://vultrceping.github.io/review/chicago-illinois-shared-cpu/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/chicago-illinois-shared-cpu/</guid>
+      <description>Vultr在全球拥有众多数据中心，究竟哪个更适合您？本文为您带来Vultr芝加哥（Chicago）机房的独家深度评测。我们将针对共享CPU方案，从硬件配置、磁盘I/O跑分以及国内三网回程路由、网络延迟、带宽测速进行全方位实测。</description>
+    </item>
     <item>
       <title>Vultr 亚特兰大机房速度怎么样？共享 CPU 真实评测！</title>
       <link>https://vultrceping.github.io/review/atlanta-georgia-shared-cpu/</link>
