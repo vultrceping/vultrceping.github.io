@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 达拉斯 VPS 值得买吗？共享 CPU 性能与带宽实测</title>
+      <link>https://vultrceping.github.io/review/dallas-texas-shared-cpu/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/dallas-texas-shared-cpu/</guid>
+      <description>Vultr 在全球拥有众多数据中心，到底哪个最适合国内网络？今天带大家深度评测 Vultr 美国达拉斯（Dallas）机房的共享 CPU VPS。本文将为您独家公开真实的硬件配置信息、性能跑分以及三网回程路由带宽数据。</description>
+    </item>
     <item>
       <title>最新 Vultr 芝加哥节点评测，硬件跑分与三网测速报告</title>
       <link>https://vultrceping.github.io/review/chicago-illinois-shared-cpu/</link>
