@@ -1,18 +1,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vultrceping.github.io/review/</loc>
-    <lastmod>2026-06-12T00:00:00+08:00</lastmod>
+    <lastmod>2026-06-15T00:00:00+08:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://vultrceping.github.io/review/los-angeles-california-shared-cup/</loc>
+    <lastmod>2026-06-15T00:00:00+08:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://vultrceping.github.io/</loc>
+    <lastmod>2026-06-15T00:00:00+08:00</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://vultrceping.github.io/review/dallas-texas-shared-cpu/</loc>
     <lastmod>2026-06-12T00:00:00+08:00</lastmod>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://vultrceping.github.io/</loc>
-    <lastmod>2026-06-12T00:00:00+08:00</lastmod>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://vultrceping.github.io/review/chicago-illinois-shared-cpu/</loc>
