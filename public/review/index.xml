@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 迈阿密共享 CPU VPS，硬件性能与网络带宽实测！</title>
+      <link>https://vultrceping.github.io/review/miami-florida-shared-cpu/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/miami-florida-shared-cpu/</guid>
+      <description>Vultr 迈阿密（Florida）节点共享 CPU 实例表现如何？我们通过真实的硬件跑分，网络带宽测试与全球路由追踪，为您揭开这款 VPS 的真实性能表现。附带最新测速结果与购买建议！</description>
+    </item>
     <item>
       <title>Vultr 洛杉矶共享 CPU VPS 实例网络与硬件真实测试！</title>
       <link>https://vultrceping.github.io/review/los-angeles-california-shared-cup/</link>
