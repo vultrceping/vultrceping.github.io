@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 新泽西节点 VPS 全面测试！带你了解真实表现！</title>
+      <link>https://vultrceping.github.io/review/new-york-new-jersey-shared-cpu/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/new-york-new-jersey-shared-cpu/</guid>
+      <description>继之前对 Vultr 几个热门机房的深度实测后，今天我为大家带来新泽西（纽约）机房共享 CPU VPS 的全面评测。本文将通过配置、性能及国内三网路由的真实测试数据，帮你理性分析这个节点到底值不值得入手！</description>
+    </item>
     <item>
       <title>Vultr 迈阿密共享 CPU VPS，硬件性能与网络带宽实测！</title>
       <link>https://vultrceping.github.io/review/miami-florida-shared-cpu/</link>
