@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 墨西哥机房深度评测：拉美出海硬件性能实测</title>
+      <link>https://vultrceping.github.io/review/mexico-city-mexico-shared-cpu/</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/mexico-city-mexico-shared-cpu/</guid>
+      <description>深度实测 Vultr 墨西哥城机房表现。面向拉美外贸独立站、美客多与亚马逊跨境电商卖家，提供 Intel 硬件跑分、三网及美洲延迟、广播 IP 属性与流媒体解锁数据，附出海架构选型避坑建议。</description>
+    </item>
     <item>
       <title>Vultr 新泽西节点 VPS 全面测试！带你了解真实表现！</title>
       <link>https://vultrceping.github.io/review/new-york-new-jersey-shared-cpu/</link>
