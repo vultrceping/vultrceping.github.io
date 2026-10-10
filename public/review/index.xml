@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 07 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 日本东京 (Tokyo) 机房测评：三网晚高峰延迟、丢包率与共享 CPU 性能实测</title>
+      <link>https://vultrceping.github.io/review/tokyo-japan-shared-cpu/</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/tokyo-japan-shared-cpu/</guid>
+      <description>实测 Vultr 东京机房最新表现。提供电信、联通、移动三大运营商白天与晚高峰双向延迟追踪、丢包率统计、YABS 与 Sysbench 硬件性能跑分及国内建站选型避坑建议。</description>
+    </item>
     <item>
       <title>Vultr 墨西哥机房深度评测：拉美出海硬件性能实测</title>
       <link>https://vultrceping.github.io/review/mexico-city-mexico-shared-cpu/</link>
