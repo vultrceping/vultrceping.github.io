@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://vultrceping.github.io/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vultr 新加坡 (Singapore) 机房三网延迟丢包与性能实测</title>
+      <link>https://vultrceping.github.io/review/singapore-shared-cpu/</link>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0800</pubDate>
+      <guid>https://vultrceping.github.io/review/singapore-shared-cpu/</guid>
+      <description>深度实测 Vultr 新加坡机房最新硬件与网络表现。重点解析中国移动 CMI 直连优势、电信 163 与联通 4837 路由走向、全国 159 节点延迟与 100 次丢包率、YABS 与 Sysbench 跑分，为东南亚出海建站提供选型参考。</description>
+    </item>
     <item>
       <title>Vultr 日本东京 (Tokyo) 机房测评：三网晚高峰延迟、丢包率与共享 CPU 性能实测</title>
       <link>https://vultrceping.github.io/review/tokyo-japan-shared-cpu/</link>
